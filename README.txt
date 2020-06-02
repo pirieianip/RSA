@@ -2,7 +2,7 @@
  Date: 02/12/2020
  File: README.txt
 
- To compiler this program, go to the included cmake-build-debug folder in cmd:
+ To compile this program, go to the included cmake-build-debug folder in cmd:
 
     1. type "cmake .."
     2. type "make"
